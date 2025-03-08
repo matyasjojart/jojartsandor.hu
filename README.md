@@ -22,7 +22,7 @@ A weboldal az alábbi technológiákat használja:
 │── 🎨 **style.css** – Stílus
 │── ⚙️ **script.js** – Funkcionalitás  
 │── 🖼️ **gallery.html** – Képgaléria  
-│── 🎭 **gallery.css** – Galéria stílusa 
+│── 🎭 **gallery.css** – Galéria stílusai
 │── 🖼️ **favicon.jpg** – Weboldal ikon  
 │── 📁 **kepek** – Képek mappája  
 
