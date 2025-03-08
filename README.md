@@ -37,6 +37,3 @@ A projekt fájljai a következőképpen vannak elrendezve:
 📧 **Email:** [jojartmatyas@gmail.com](mailto:jojartmatyas@gmail.com)<br>
 
 ---
-
-✨ *Köszönöm, hogy meglátogattad a projektet!*
-
