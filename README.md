@@ -1,4 +1,4 @@
-# ⚡ Jójárt Sándor <br>Villanyszerelő Weboldala
+# ⚡ Jójárt Sándor || Villanyszerelő Weboldala
 
 ---
 
