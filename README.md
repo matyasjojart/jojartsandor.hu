@@ -2,20 +2,23 @@
 
 ---
 
-## 📌 Projekt Leírása
-🛠️ Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos honlapja.
+## 📌 **Projekt Leírása**
+Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos honlapja.
 
 ---
 
-## 🚀 Technológiák
-A weboldal az alábbi technológiákat használja:
+## 🚀 **Technológiák**
+A weboldal elkészítéséhez a következő technológiákat használtuk:
 
-- 🎨 **HTML5, CSS3**
-- ⚙️ **JavaScript**
+- **HTML5** – A weboldal szerkezetének felépítése.
+- **CSS3** – A weboldal stílusa és dizájnja.
+- **JavaScript** – Interaktív funkciók megvalósítása.
 
 ---
 
-## 📂 Mappa Struktúra
+## 📂 **Mappa Struktúra**
+A projekt fájljai a következőképpen vannak elrendezve:
+
 
 #### 📁 **jojartsandor**  
 │── 📜 **index.html** – Főoldal<br>
