@@ -20,7 +20,6 @@ A weboldal az alábbi technológiákat használja:
 #### 📁 **jojartsandor**  
 │── 📜 **index.html** – Főoldal  
 │── 🎨 **style.css** – Stílus
-
 │── ⚙️ **script.js** – Funkcionalitás  
 │── 🖼️ **gallery.html** – Képgaléria  
 │── 🎭 **gallery.css** – Galéria stílusa
