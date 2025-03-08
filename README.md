@@ -37,5 +37,5 @@ A projekt fájljai a következőképpen vannak elrendezve:
 
 ---
 
-✨ *Köszöndöm, hogy meglátogattad a projektet!*
+✨ *Köszönöm, hogy meglátogattad a projektet!*
 
