@@ -33,10 +33,7 @@ A projekt fájljai a következőképpen vannak elrendezve:
 ---
 
 ## 📬 Kapcsolat
-📧 **Email:** [villanyszerelo.com@gmail.com](mailto:villanyszerelo.com@gmail.com)<br>
-📞 **Telefon:** (70) 415 3856  
-🌐 **Weboldal:** [jojartsandor.hu](https://jojartsandor.hu)<br>
-📘 **Facebook:** [Jójárt Sándor villanyszerelő E.V.](https://www.facebook.com/p/J%C3%B3j%C3%A1rt-S%C3%A1ndor-villanyszerel%C5%91-EV-100063578439174/)
+📧 **Email:** [jojartmatyas@gmail.com](mailto:jojartmatyas@gmail.com)<br>
 
 ---
 
