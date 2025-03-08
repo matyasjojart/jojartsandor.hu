@@ -21,10 +21,10 @@ A weboldal az alábbi technológiákat használja:
 │── 📜 **index.html** – Főoldal<br>
 │── 🎨 **style.css** – Stílus<br>
 │── ⚙️ **script.js** – Funkcionalitás<br> 
-│── 🖼️ **gallery.html** – Képgaléria<br>  
+│── 🖼️ **gallery.html** – Képgaléria  
 │── 🎭 **gallery.css** – Galéria stílusa<br>
 │── 🖼️ **favicon.jpg** – Weboldal ikon<br>  
-│── 📁 **kepek** – Képek mappája<br>  
+│── 📁 **kepek** – Képek mappája  
 
 ---
 
