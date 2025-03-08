@@ -1,5 +1,5 @@
-⚡# Jójárt Sándor
-⚡## Villanyszerelő Weboldala
+# ⚡**Jójárt Sándor**
+## ⚡**Villanyszerelő Weboldala**
 
 ---
 
