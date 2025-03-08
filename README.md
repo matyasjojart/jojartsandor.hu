@@ -10,9 +10,11 @@ Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos hon
 ## 🚀 **Technológiák**
 A weboldal elkészítéséhez a következő technológiákat használtuk:
 
-- **HTML5** – A weboldal szerkezetének felépítése.
-- **CSS3** – A weboldal stílusa és dizájnja.
-- **JavaScript** – Interaktív funkciók megvalósítása.
+| Technológia | Leírás |
+| ----------- | ------ |
+| **HTML5**   | A weboldal szerkezetének felépítése. |
+| **CSS3**    | A weboldal stílusa és dizájnja. |
+| **JavaScript** | Interaktív funkciók megvalósítása. |
 
 ---
 
