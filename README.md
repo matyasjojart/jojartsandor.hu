@@ -3,12 +3,12 @@
 ---
 
 ## 📌 **Projekt Leírása**
-Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos honlapja.
+Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos weboldalja.
 
 ---
 
 ## 🚀 **Technológiák**
-A weboldal elkészítéséhez a következő technológiákat használtuk:
+A weboldal elkészítéséhez a következő technológiákat használtam:
 
 | Technológia | Leírás |
 | ----------- | ------ |
@@ -37,5 +37,5 @@ A projekt fájljai a következőképpen vannak elrendezve:
 
 ---
 
-✨ *Köszönjük, hogy meglátogattad a projektet!*
+✨ *Köszöndöm, hogy meglátogattad a projektet!*
 
