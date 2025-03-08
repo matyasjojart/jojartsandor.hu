@@ -10,8 +10,8 @@
 ## 🚀 Technológiák
 A weboldal az alábbi technológiákat használja:
 
-- 🎨 **HTML5, CSS3** – Modern és reszponzív dizájn
-- ⚙️ **JavaScript** – Interaktív funkciók
+- 🎨 **HTML5, CSS3**
+- ⚙️ **JavaScript**
 
 ---
 
