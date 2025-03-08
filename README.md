@@ -19,10 +19,10 @@ A weboldal az alábbi technológiákat használja:
 
 📁 **jojartsandor**  
 │── 📜 **index.html** – Főoldal  
-│── 🎨 **style.css** – Stíluslap  
+│── 🎨 **style.css** – Stílus
 │── ⚙️ **script.js** – Funkcionalitás  
 │── 🖼️ **gallery.html** – Képgaléria  
-│── 🎭 **gallery.css** – Galéria stílusai  
+│── 🎭 **gallery.css** – Galéria stílusa 
 │── 🖼️ **favicon.jpg** – Weboldal ikon  
 │── 📁 **kepek** – Képek mappája  
 
