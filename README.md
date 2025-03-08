@@ -29,7 +29,7 @@ A weboldal az alábbi technológiákat használja:
 ---
 
 ## 📬 Kapcsolat
-📧 **Email:** [villanyszerelo.com@gmail.com](mailto:villanyszerelo.com@gmail.com)
+📧 **Email:** [villanyszerelo.com@gmail.com](mailto:villanyszerelo.com@gmail.com)<br>
 📞 **Telefon:** (70) 415 3856  
 🌐 **Weboldal:** [jojartsandor.hu](https://jojartsandor.hu)  
 
