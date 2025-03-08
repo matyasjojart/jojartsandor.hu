@@ -18,8 +18,8 @@ A weboldal az alábbi technológiákat használja:
 ## 📂 Mappa Struktúra
 
 #### 📁 **jojartsandor**  
-│── 📜 **index.html** – Főoldal  
-│── 🎨 **style.css** – Stílus
+│── 📜 **index.html** – Főoldal
+│── 🎨 **style.css** – Stílus<br>
 │── ⚙️ **script.js** – Funkcionalitás  
 │── 🖼️ **gallery.html** – Képgaléria  
 │── 🎭 **gallery.css** – Galéria stílusa
