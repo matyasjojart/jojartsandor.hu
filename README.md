@@ -3,7 +3,7 @@
 ---
 
 ## 📌 **Projekt Leírása**
-Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos weboldalja.
+Ez a weboldal **Jójárt Sándor**, egy tapasztalt villanyszerelő hivatalos weboldala.
 
 ---
 
